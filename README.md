@@ -1,4 +1,4 @@
-<h1 align="center">👋 Seja bem-vindo ao meu perfil</h1>
+<h2 align="center"> Seja bem-vindo ao meu perfil GitHub 👋 </h2>
 
 <p align="center">
   Backend Developer | .NET & Node.js | C#, JavaScript, Python | APIs, Microservices, SQL/NoSQL | DevOps & Automation
@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <h3>🚀 Tecnologias & Ferramentas</h3>
+  <h4> Tecnologias e Ferramentas </h4>
 </div>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-  <h3>🧰 Skills Principais</h3>
+  <h4> Skills </h4>
 </div>
 
 - Desenvolvimento Backend (.NET e Node.js)  
@@ -42,7 +42,7 @@
 ---
 
 <div align="center">
-  <h3>📬 Contato</h3>
+  <h4> Contato </h4>
 </div>
 
 <p align="center">
@@ -54,5 +54,5 @@
 ---
 
 <p align="center">
-  <em>“Código é criação — engenharia é propósito.”</em>
+  <em>“Código é criação - engenharia é propósito.”</em>
 </p>
