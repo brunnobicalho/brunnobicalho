@@ -1,4 +1,4 @@
-<h2 align="center"> Seja bem-vindo ao meu perfil GitHub 👋 </h2>
+<h3 align="center"> Seja bem-vindo ao meu perfil GitHub 👋 </h3>
 
 ---
 
@@ -13,6 +13,20 @@
 ---
 
 <div align="center">
+
+<!-- Estatísticas mais bonitas e modernas -->
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunnobicalho&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnobicalho&layout=compact&hide_border=true&theme=transparent" />
+
+<img height="160em" src="https://streak-stats.demolab.com?user=brunnobicalho&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+<div align="center">
   <h6> Skills </h6>
 </div>
 
@@ -22,18 +36,6 @@
 - Bancos SQL e NoSQL  
 - CI/CD, Docker, Automação, DevOps  
 - Integração e testes automatizados  
-
----
-
-<div align="center">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunnobicalho&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnobicalho&layout=compact&theme=github_dark&hide_border=true" />
-
-<img height="150em" src="https://streak-stats.demolab.com?user=brunnobicalho&theme=github-dark&hide_border=true" />
-
-</div>
 
 ---
 
