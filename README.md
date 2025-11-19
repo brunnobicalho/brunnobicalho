@@ -13,14 +13,16 @@
 ---
 
 <div align="center">
+  <h6> Estatísticas </h6>
+</div>
 
-<!-- Estatísticas mais bonitas e modernas -->
+<div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunnobicalho&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunnobicalho&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&icon_color=FFFFFF&title_color=E0E0E0&text_color=A8A8A8" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnobicalho&layout=compact&hide_border=true&theme=transparent" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnobicalho&layout=compact&hide_border=true&theme=transparent&title_color=E0E0E0&text_color=A8A8A8" />
 
-<img height="160em" src="https://streak-stats.demolab.com?user=brunnobicalho&hide_border=true&theme=transparent" />
+<img height="160em" src="https://streak-stats.demolab.com?user=brunnobicalho&hide_border=true&background=FFFFFF00&ring=E0E0E0&fire=E0E0E0&currStreakLabel=E0E0E0&sideLabels=A8A8A8&dates=A8A8A8" />
 
 </div>
 
