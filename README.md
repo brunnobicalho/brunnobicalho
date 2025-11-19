@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Bruno Bicalho – Backend Developer</h1>
+<h1 align="center">👋 Seja bem-vindo ao meu perfil</h1>
 
 <p align="center">
   Backend Developer | .NET & Node.js | C#, JavaScript, Python | APIs, Microservices, SQL/NoSQL | DevOps & Automation
@@ -18,7 +18,6 @@
 
 <div align="center">
 
-<!-- Gráficos de atividades -->
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunnobicalho&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnobicalho&layout=compact&theme=github_dark&hide_border=true" />
