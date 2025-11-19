@@ -1,18 +1,27 @@
 <h2 align="center"> Seja bem-vindo ao meu perfil GitHub 👋 </h2>
 
-<p align="center">
-  Backend Developer | .NET & Node.js | C#, JavaScript, Python | APIs, Microservices, SQL/NoSQL | DevOps & Automation
-</p>
-
 ---
 
 <div align="center">
-  <h4> Tecnologias e Ferramentas </h4>
+  <h6> Tecnologias e Ferramentas </h6>
 </div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,js,ts,python,docker,git,github,azure,aws,postgres,mysql,mongodb,redis" />
 </p>
+
+---
+
+<div align="center">
+  <h6> Skills </h6>
+</div>
+
+- Desenvolvimento Backend (.NET e Node.js)  
+- Criação de APIs REST e Microservices  
+- Arquitetura limpa, DDD, SOLID  
+- Bancos SQL e NoSQL  
+- CI/CD, Docker, Automação, DevOps  
+- Integração e testes automatizados  
 
 ---
 
@@ -29,20 +38,7 @@
 ---
 
 <div align="center">
-  <h4> Skills </h4>
-</div>
-
-- Desenvolvimento Backend (.NET e Node.js)  
-- Criação de APIs REST e Microservices  
-- Arquitetura limpa, DDD, SOLID  
-- Bancos SQL e NoSQL  
-- CI/CD, Docker, Automação, DevOps  
-- Integração e testes automatizados  
-
----
-
-<div align="center">
-  <h4> Contato </h4>
+  <h6> Contato </h6>
 </div>
 
 <p align="center">
@@ -54,5 +50,5 @@
 ---
 
 <p align="center">
-  <em>“Código é criação - engenharia é propósito.”</em>
+  <em>“Código é criação — engenharia é propósito.”</em>
 </p>
